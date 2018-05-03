@@ -10,6 +10,8 @@ public class Position {
 		this.column = c;
 	}
 	
-	
+	public void printPosition() {
+			System.out.print("(" + row + "," + column + ")");	
+	}
 
 }
