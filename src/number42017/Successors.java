@@ -15,7 +15,7 @@ public class Successors {
 	}
 	
 	public static void main(String[] args) {
-		// Part A
+		// DO NOT EDIT - YOU MAY MINIMIZE THIS METHOD
 		int[][] problemArr = 
 			{ { 15, 5,  9,  10 },
 			  { 12, 16, 11, 6  },
@@ -30,6 +30,7 @@ public class Successors {
 	}
 
 	public static void printSuccessorArray(Position[][] inputArr) {
+		// DO NOT EDIT - YOU MAY MINIMIZE THIS METHOD
 		if(inputArr == null) {
 			return;
 		}
