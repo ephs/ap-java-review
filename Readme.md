@@ -1,8 +1,8 @@
 AP Java Review
 ===
-https://goo.gl/B6wgwg
+Presentation: https://goo.gl/B6wgwg
 
-This repository is a collection of packages prepared for use with the free response practice in the accompanying presentation.
+This repository is a collection of resources for use with the free response practice in the accompanying presentation.
 
 Clone in Eclipse
 ---
