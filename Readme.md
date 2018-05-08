@@ -1,6 +1,6 @@
 AP Java Review
 ===
-Presentation: https://goo.gl/B6wgwg
+Presentation: https://goo.gl/9pfG6q
 
 This repository is a collection of resources for use with the free response practice in the accompanying presentation.
 
