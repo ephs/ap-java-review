@@ -8,6 +8,7 @@ Clone in Eclipse
 ---
 This repository is designed to be cloned in Eclipse. Here is the procedure to clone this project in eclipse:
 1. In the menus, click 'File' -> 'Import'
+
 ![file](img/file.png)
 2. Under the 'Git' folder select 'Projects from Git' then 'Next >' 
 ![select](img/select.png)
