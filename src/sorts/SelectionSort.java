@@ -1,9 +1,9 @@
 package sorts;
 
 public class SelectionSort {
-	
-	public void selectionSort(int[] array) {
-
+	//taken with permission from https://github.com/Jythonscript/Visual-Sort
+	public void selectionSort(int[] array) {	
+		
 		for (int i = 0; i < array.length; i++) {
 
 			int startmin = array[i];
