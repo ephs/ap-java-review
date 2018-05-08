@@ -15,7 +15,7 @@ This repository is designed to be cloned in Eclipse. Here is the procedure to cl
 6. On the 'Local Destination' screen you may adjust where you want the repository if you wish, then click 'Next >'
 7. Continue clicking 'Next >' until the process is complete. You should now have a new project named 'ap-java-review'
 
-Contributers
+Contributors
 ---
 * eduxstad
 * Jythonscript
