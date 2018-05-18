@@ -1,6 +1,6 @@
 AP Java Review
 ===
-Presentation: https://goo.gl/9pfG6q
+Presentation: https://ephs.github.io/ap-java-review/
 
 This repository is a collection of resources for use with the free response practice in the accompanying presentation.
 
